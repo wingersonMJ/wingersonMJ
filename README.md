@@ -85,13 +85,7 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 <br><br>
 ## Some tools I've learned...
-
-<br><br>
-# Fun stuff about me!
-
-<br><br>
-## Youth football coach...
-2024 - Present | Spartan's 6-8th grade American Football (Denver, CO)
+[![My Skills](https://skillicons.dev/icons?i=github,md,r,vscode,py,sklearn,pytorch,tensorflow&perline=4)](https://skillicons.dev)
 
 <br><br>
 ## Top Artists I've listened to over the last 12 months... 
