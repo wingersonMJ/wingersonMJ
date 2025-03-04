@@ -3,34 +3,34 @@
 **Name:** Mathew Wingerson (he/him)\
 **Location:** Denver, CO (relocating to... tbd)\
 **Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics\
-**Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)\
+**Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)
 
 ## **Education:**
-**Doctor of Philosophy** (expected 2026) | University of Colorado School of Medicine
+**Doctor of Philosophy (expected 2026)** | University of Colorado School of Medicine
 > Program:
 >> Rehabilitation Sciences (study of disease progresion/treatment)
 
 > Research focus:
->> Statistics, Data Sciences, and Health Analytics to improve diagnosis, prognosis, and treatment of medically complex injuries\
->> Forecasting symptom progression using post-concussion clinical data
+>> Statistics, Data Sciences, and Health Analytics to improve diagnosis, prognosis, and treatment of medically complex injuries.\
+>> Forecasting symptom progression using post-concussion clinical data.
 
 
-**Certificate in Data Science and Health Analytics** (expected 2025) | University of Colorado School of Medicine
+**Certificate in Data Science and Health Analytics (expected 2025)** | University of Colorado School of Medicine
 > Research focus:
->> Modeling of complex real-world data to generate actionable insights for improving concussion recovery\
->> Machine learning, deep learning, and various data science topics
+>> Modeling of complex real-world data to generate actionable insights for improving concussion recovery.\
+>> Machine learning, deep learning, and various data science topics:
 >>> Multi-layer perceptron networks (feed forward)\
 >>> Convolutional networks\
 >>> Recurrent neural networks
         
 ## Motivation...
-I'm passionate about the process of using data to generate predictions and drive decision-making! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.\ 
+I'm passionate about the process of using data to generate predictions and drive decision-making! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
 I thrive when allowed to leverage conventional statistics, machine learning, and deep learning to make sense out of imperfect data. I am looking for a career that allows me to use these tools to tackle increasingly complex problems in fields where simple solutions fall short! 
 
 ## What I am learning now...
 **Multi-layer perceptrons**
-> Predicting cancer development from omics data
-> Predicting non-resolving mental health symptoms in adolescents with concussion\
+> Predicting cancer development from omics data.
+> Predicting non-resolving mental health symptoms in adolescents with concussion.
 
 **Convolutional networks**
 > Identifying lession types from medical imaging
