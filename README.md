@@ -2,7 +2,7 @@
 ## About me...
 **Name:** Mathew Wingerson (he/him)\
 **Location:** Denver, CO (relocating to... tbd)\
-**Job:** PhD Student in Rehabilitation Sciences with focus in Data Sciences and Health Analytics\
+**Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics\
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)\
 
 ## **Education:**
