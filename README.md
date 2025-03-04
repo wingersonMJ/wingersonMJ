@@ -26,7 +26,7 @@
 
 <br><br>
 ## Motivation...
-I'm passionate about the process of using data to generate predictions and drive decision-making! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
+I'm passionate about using data to generate predictions and drive decision-making! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
 I thrive when allowed to leverage conventional statistics, machine learning, and deep learning to make sense out of imperfect data. I am looking for a career that allows me to use these tools to tackle increasingly complex problems in fields where simple solutions fall short! 
 
 <br><br>
