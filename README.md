@@ -89,6 +89,9 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 [![My Skills](https://skillicons.dev/icons?i=github,md,r,vscode,py,sklearn,pytorch,tensorflow&perline=4)](https://skillicons.dev)
 
 <br><br>
+<br><br>
+# Fun things about me! 
+
 ## Top Artists I've listened to over the last 12 months... 
 
 | <img src="https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" width="300" height="300"> | <img src="https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733" width="300" height="300"> |
