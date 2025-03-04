@@ -67,8 +67,10 @@ Sponsor: David Howell
 Co-Sponsor: Brianne Bettcher 
 Mentorship Team: Patrick Carry & Jonathan Smirl
 
-## Peer reviewed work... 
-
+## Some recent peer reviewed work... 
+[Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion](https://pubmed.ncbi.nlm.nih.gov/38109187/)
+[Concussion and depressive symptoms in high school students: impact of physical activity and substance use](https://pubmed.ncbi.nlm.nih.gov/39837588/)
+[Predicting Time to Evaluation After Pediatric Concussion: Factors Affecting Specialty Concussion Care](https://pubmed.ncbi.nlm.nih.gov/37655238/)
 
 ## Some tools I've learned...
 
@@ -80,27 +82,15 @@ Mentorship Team: Patrick Carry & Jonathan Smirl
 
 ## Top Artists I've listened to over the last 12 months... 
 
-| ![Nirvana](https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451) | ![Foo Fighters](https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15) |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| **#1. Nirvana**                                                                   | **#2. Foo Fighters**                                                                   |
+| <img src="https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" width="300" height="300"> | <img src="https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733" width="300" height="300"> |
+|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| **#1. Nirvana** | **#2. Foo Fighters** | **#3. Alice in Chains** |
 
-| ![Alice in Chains](https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733) | ![The White Stripes](https://i.scdn.co/image/ab6761610000517470cc06de8fc28226d4743cd9) |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| **#3. Alice in Chains**                                                                   | **#4. The White Stripes**                                                                   |
+| <img src="https://i.scdn.co/image/ab6761610000517470cc06de8fc28226d4743cd9" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676" width="300" height="300"> | <img src="https://i.scdn.co/image/ab6761610000517431f6ab67e6025de876475814" width="300" height="300"> |
+|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| **#4. The White Stripes** | **#5. Taylor Swift** | **#6. Jimi Hendrix** |
 
-| ![Taylor Swift](https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676) | ![Jimi Hendrix](https://i.scdn.co/image/ab6761610000517431f6ab67e6025de876475814) |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| **#5. Taylor Swift**                                                                   | **#6. Jimi Hendrix**                                                                   |
-
-| ![Weezer](https://i.scdn.co/image/ab676161000051743cd35451daa1b690cfbbb2d4) | ![The Killers](https://i.scdn.co/image/ab67616100005174207b21f3ed0ee96adce3166a) |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| **#7. Weezer**                                                                   | **#8. The Killers**                                                                   |
-
-| ![The Offspring](https://i.scdn.co/image/ab67616100005174580938fc4c9edb1b80b10898) | ![The Police](https://i.scdn.co/image/078c3d6784e53ca7490fb63218560d20100a18f2) |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| **#9. The Offspring**                                                                   | **#10. The Police**                                                                  |
-
-
-
-
+| <img src="https://i.scdn.co/image/ab676161000051743cd35451daa1b690cfbbb2d4" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174207b21f3ed0ee96adce3166a" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174580938fc4c9edb1b80b10898" width="300" height="300"> |
+|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| **#7. Weezer** | **#8. The Killers** | **#9. The Offspring** |
 
