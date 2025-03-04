@@ -4,6 +4,7 @@
 **Location:** Denver, CO (relocating to... tbd)\
 **Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics\
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)
+<br><br>
 
 ## **Education:**
 **Doctor of Philosophy (expected 2026)** | University of Colorado School of Medicine
@@ -15,71 +16,84 @@
 >> Forecasting symptom progression using post-concussion clinical data.
 
 
-**Certificate in Data Science and Health Analytics (expected 2025)** | University of Colorado School of Medicine
+**Concentration/Certification in Data Science and Health Analytics (expected 2025)** | University of Colorado School of Medicine
 > Research focus:
 >> Modeling of complex real-world data to generate actionable insights for improving concussion recovery.\
 >> Machine learning, deep learning, and various data science topics:
 >>> Multi-layer perceptron networks (feed forward)\
 >>> Convolutional networks\
 >>> Recurrent neural networks
-        
+
+<br><br>
 ## Motivation...
 I'm passionate about the process of using data to generate predictions and drive decision-making! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
 I thrive when allowed to leverage conventional statistics, machine learning, and deep learning to make sense out of imperfect data. I am looking for a career that allows me to use these tools to tackle increasingly complex problems in fields where simple solutions fall short! 
 
+<br><br>
 ## What I am learning now...
 **Multi-layer perceptrons**
-> Predicting cancer development from omics data.
+> Predicting cancer development from omics data.\
 > Predicting non-resolving mental health symptoms in adolescents with concussion.
 
 **Convolutional networks**
-> Identifying lession types from medical imaging
-> Predicting age from facial features
+> Identifying lession types from medical imaging.\
+> Predicting age from facial features.
 
 **Recurrent networks**
-> Predicting symptom progression using wearable physical activity and sleep data during concussion recovery
+> Predicting symptom progression using wearable physical activity and sleep data during concussion recovery.\
+> Scenario testing to generate exercise recomendations for patients with concussion.
 
+<br><br>
 ## Project's I've worked on...
 **Near-infrared spectroscopy for identifying cerebrovascualr impairment in adolescents with concussion**
-> Quantifying cerebrovascular dysfunction using advanced medical technology
+> Quantifying cerebrovascular dysfunction using advanced medical technology.
 
 **Isotemportal substituion modeling of wearable activity tracking**
-> Time-based (i.e., temporal) modeling of activity behaviors and their effect on post-concussion symptom resolution
+> Time-based (i.e., temporal) modeling of activity behaviors and their effect on post-concussion symptom resolution.
 
 **Structural equation modeling of longitudinal data**
-> Sleep and exercise: Longitudinal assocations throughout recovery from concussion
+> Sleep and exercise: Longitudinal assocations throughout recovery from concussion.
 
 **Longitudinal analysis of Magnetic Resonance Spectroscopy**
-> Neurometabolite concentrations predict physical activity volumes after concussion
+> Neurometabolite concentrations predict physical activity volumes after concussion.
 
 **Random forests**
-> Predicting non-resolving mental health disturbance after concussion using diverse clinical data
+> Predicting non-resolving mental health disturbance after concussion using diverse clinical data.
 
-## Research Funding...
+**Propensity score-based randomization**
+> Using propensity-score metrics to randomize serum/plasma samples during analysis.
+>> Purpose: Balance relevant covariates between batches without cross-plate controls
+
+<br><br>
+## My research funding...
 **Ruth L. Kirschstein National Research Service Award (NRSA) for Individual Predoctoral Fellows** 
-National Institutes of Health (NIH)
-Eunice Kennedy Shriver National Institute of Child Health & Human Development
-Award Number: F31HD116524-01
-Total Award Amount: $77,600
-Institution: Department of Orthopedics, University of Colorado Anschutz School of Medicine
-Project Title: A novel approach to exercise as treatment for injury-induced impairments in cerebrovascular function among adolescents with concussion
-Sponsor: David Howell
-Co-Sponsor: Brianne Bettcher 
+National Institutes of Health (NIH)\
+Eunice Kennedy Shriver National Institute of Child Health & Human Development\
+Award Number: F31HD116524-01\
+Total Award Amount: $77,600\
+Institution: Department of Orthopedics, University of Colorado Anschutz School of Medicine\
+Project Title: A novel approach to exercise as treatment for injury-induced impairments in cerebrovascular function among adolescents with concussion\
+Sponsor: David Howell\
+Co-Sponsor: Brianne Bettcher \
 Mentorship Team: Patrick Carry & Jonathan Smirl
 
+<br><br>
 ## Some recent peer reviewed work... 
-[Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion](https://pubmed.ncbi.nlm.nih.gov/38109187/)
-[Concussion and depressive symptoms in high school students: impact of physical activity and substance use](https://pubmed.ncbi.nlm.nih.gov/39837588/)
+[Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion](https://pubmed.ncbi.nlm.nih.gov/38109187/)\
+[Concussion and depressive symptoms in high school students: impact of physical activity and substance use](https://pubmed.ncbi.nlm.nih.gov/39837588/)\
 [Predicting Time to Evaluation After Pediatric Concussion: Factors Affecting Specialty Concussion Care](https://pubmed.ncbi.nlm.nih.gov/37655238/)
 
+<br><br>
 ## Some tools I've learned...
 
-
-
+<br><br>
 # Fun stuff about me!
+
+<br><br>
 ## Youth football coach...
 2024 - Present | Spartan's 6-8th grade American Football (Denver, CO)
 
+<br><br>
 ## Top Artists I've listened to over the last 12 months... 
 
 | <img src="https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" width="300" height="300"> | <img src="https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733" width="300" height="300"> |
