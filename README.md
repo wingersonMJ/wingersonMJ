@@ -44,6 +44,9 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 > Predicting symptom progression using wearable physical activity and sleep data during concussion recovery.\
 > Scenario testing to generate exercise recomendations for patients with concussion.
 
+**Generative models**
+> Projects tbd...
+
 <br><br>
 ## Project's I've worked on...
 **Near-infrared spectroscopy for identifying cerebrovascualr impairment in adolescents with concussion**
