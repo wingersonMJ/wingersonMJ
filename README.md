@@ -70,7 +70,7 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 
 <br><br>
 ## My research funding...
-**Ruth L. Kirschstein National Research Service Award (NRSA) for Individual Predoctoral Fellows** 
+**Ruth L. Kirschstein National Research Service Award (NRSA) for Individual Predoctoral Fellows**\
 National Institutes of Health (NIH)\
 Eunice Kennedy Shriver National Institute of Child Health & Human Development\
 Award Number: F31HD116524-01\
