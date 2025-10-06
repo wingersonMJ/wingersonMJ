@@ -3,7 +3,8 @@
 **Name:** Mathew Wingerson (he/him)\
 **Location:** Denver, CO (relocating to... tbd)\
 **Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics\
-**Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)
+**Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
+[My Publications](https://pubmed.ncbi.nlm.nih.gov/?term=Wingerson+MJ&cauthor_id=36315824) | [Posters & Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
 <br><br>
 
 ## **Education:**
@@ -12,17 +13,17 @@
 >> Rehabilitation Sciences (study of disease progression/treatment)
 
 > Research focus:
->> Statistics, Data Sciences, and Health Analytics to improve diagnosis, prognosis, and treatment of medically complex injuries.\
+>> Statistics, Data Sciences, and Health Analytics to improve diagnosis, prognosis, and treatment of medically complex injuries.
 >> Forecasting symptom progression using post-concussion clinical data.
 
 
 **Concentration/Certification in Data Science and Health Analytics (expected 2025)** | University of Colorado School of Medicine
+> Program:
+>> Public Health
+
 > Research focus:
 >> Modeling of complex real-world data to improve concussion recovery.  
->> Machine learning, deep learning, and various data science topics:
->>> Multi-layer perceptrons  
->>> Convolutional networks  
->>> Recurrent neural networks  
+>> Machine learning, deep learning, and various data science topics.
 
 <br><br>
 ## Motivation...
@@ -34,9 +35,10 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 ## What I am learning now...
 **Multi-layer perceptrons**
 > Predicting cancer development from omics data.  
-> Early identification of non-resolving mental health symptoms in adolescents with concussion.
-> Differentiation of idiopathic from neuromuscular scoliosis in pediatric populations.
-> Patterns of post-concussion sleep and physical activity that influence recovery time.  
+> Early identification of non-resolving mental health symptoms in adolescents with concussion.  
+> Differentiation of idiopathic from neuromuscular scoliosis in pediatric populations.  
+> Patterns of post-concussion sleep and physical activity that influence recovery time.
+> Fun neural net example  [[link to project repo](https://github.com/wingersonMJ/Neural_net_example)]   
 
 **Convolutional networks**
 > Identifying lession types from medical imaging.  
@@ -47,7 +49,7 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 > Scenario testing to generate exercise recommendations for patients with concussion.  
 
 **Generative models**
-> Real-time personalized sleep and exercise recommendations after concussion using wearable data
+> Real-time personalized sleep and exercise recommendations after concussion using wearable data.  
 
 <br><br>
 ## Projects I've worked on...
@@ -61,35 +63,41 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 > Sleep and exercise: Longitudinal associations throughout recovery from concussion. 
 
 **Longitudinal analysis of Magnetic Resonance Spectroscopy**
-> Neurometabolite concentrations predict physical activity volumes after concussion.  
+> Neurometabolite concentrations predict physical activity volumes after concussion. [[link to project repo](https://github.com/wingersonMJ/MRSpect_analysis)]  
 
 **Random forests**
 > Predicting non-resolving mental health disturbance after concussion using diverse clinical data.  
 
 **Propensity score-based randomization**
-> Using propensity-score metrics to randomize serum/plasma samples during analysis.  
+> Using propensity-score metrics to randomize serum/plasma samples during analysis.  [[link to project repo](https://github.com/wingersonMJ/batch_randomization)]  
+
+**Other projects with tabular data**
+> Predicting exercise test performance in adolescents with concussion [[link to project repo](https://github.com/wingersonMJ/Exercise_test_HRm)]  
+> Factors influencing return to sport progressions in the months after sport-related brain injury [[link to project repo](https://github.com/wingersonMJ/Whalen_RTS)]  
+> Time-to-event analysis [[link to project repo](https://github.com/wingersonMJ/Salfi_fourGroups)]  
+
 
 <br><br>
 ## My research funding...
-**Ruth L. Kirschstein National Research Service Award (NRSA) for Individual Predoctoral Fellows**\
-National Institutes of Health (NIH)\
-Eunice Kennedy Shriver National Institute of Child Health & Human Development\
-Award Number: F31HD116524-01\
-Total Award Amount: $77,600\
-Institution: Department of Orthopedics, University of Colorado Anschutz School of Medicine\
-Project Title: A novel approach to exercise as treatment for injury-induced impairments in cerebrovascular function among adolescents with concussion\
-Sponsor: David Howell\
-Co-Sponsor: Brianne Bettcher \
-Mentorship Team: Patrick Carry & Jonathan Smirl
+**Ruth L. Kirschstein National Research Service Award (NRSA) for Individual Predoctoral Fellows**  
+National Institutes of Health (NIH)  
+Eunice Kennedy Shriver National Institute of Child Health & Human Development  
+Award Number: F31HD116524-01  
+Total Award Amount: $77,600  
+Institution: Department of Orthopedics, University of Colorado Anschutz School of Medicine  
+Project Title: A novel approach to exercise as treatment for injury-induced impairments in cerebrovascular function among adolescents with concussion  
+Sponsor: David Howell  
+Co-Sponsor: Brianne Bettcher  
+Mentorship Team: Patrick Carry & Jonathan Smirl  
 
 <br><br>
-## Some recent peer-reviewed work... 
-[Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion](https://pubmed.ncbi.nlm.nih.gov/38109187/)\
-[Concussion and depressive symptoms in high school students: impact of physical activity and substance use](https://pubmed.ncbi.nlm.nih.gov/39837588/)\
-[Predicting Time to Evaluation After Pediatric Concussion: Factors Affecting Specialty Concussion Care](https://pubmed.ncbi.nlm.nih.gov/37655238/)
+## Recent peer-reviewed work... 
+Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion [paper link](https://pubmed.ncbi.nlm.nih.gov/38109187/)\
+Concussion and depressive symptoms in high school students: impact of physical activity and substance use [paper link](https://pubmed.ncbi.nlm.nih.gov/39837588/)\
+Predicting Time to Evaluation After Pediatric Concussion: Factors Affecting Specialty Concussion Care [paper link](https://pubmed.ncbi.nlm.nih.gov/37655238/)
 
 <br><br>
-## Some tools I've learned...
+## Tools I've learned...
 [![My Skills](https://skillicons.dev/icons?i=github,md,r,vscode,py,sklearn,pytorch,tensorflow&perline=4)](https://skillicons.dev)
 
 <br><br>
