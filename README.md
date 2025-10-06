@@ -9,7 +9,7 @@
 ## **Education:**
 **Doctor of Philosophy (expected 2026)** | University of Colorado School of Medicine
 > Program:
->> Rehabilitation Sciences (study of disease progresion/treatment)
+>> Rehabilitation Sciences (study of disease progression/treatment)
 
 > Research focus:
 >> Statistics, Data Sciences, and Health Analytics to improve diagnosis, prognosis, and treatment of medically complex injuries.\
@@ -18,55 +18,56 @@
 
 **Concentration/Certification in Data Science and Health Analytics (expected 2025)** | University of Colorado School of Medicine
 > Research focus:
->> Modeling of complex real-world data to generate actionable insights for improving concussion recovery.\
+>> Modeling of complex real-world data to improve concussion recovery.  
 >> Machine learning, deep learning, and various data science topics:
->>> Multi-layer perceptron networks (feed forward)\
->>> Convolutional networks\
->>> Recurrent neural networks
+>>> Multi-layer perceptrons  
+>>> Convolutional networks  
+>>> Recurrent neural networks  
 
 <br><br>
 ## Motivation...
-I'm passionate about using data to generate predictions and drive decision-making! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
+I have a passion for identifying patterns in data and for using those patterns to make predictions and guide clinical management for medically complex injuries! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
 <br>
 I thrive when allowed to leverage conventional statistics, machine learning, and deep learning to make sense out of imperfect data. I am looking for a career that allows me to use these tools to tackle increasingly complex problems in fields where simple solutions fall short! 
 
 <br><br>
 ## What I am learning now...
 **Multi-layer perceptrons**
-> Predicting cancer development from omics data.\
-> Predicting non-resolving mental health symptoms in adolescents with concussion.
+> Predicting cancer development from omics data.  
+> Early identification of non-resolving mental health symptoms in adolescents with concussion.
+> Differentiation of idiopathic from neuromuscular scoliosis in pediatric populations.
+> Patterns of post-concussion sleep and physical activity that influence recovery time.  
 
 **Convolutional networks**
-> Identifying lession types from medical imaging.\
-> Predicting age from facial features.
+> Identifying lession types from medical imaging.  
+> Predicting age from facial features.  
 
 **Recurrent networks**
-> Predicting symptom progression using wearable physical activity and sleep data during concussion recovery.\
-> Scenario testing to generate exercise recomendations for patients with concussion.
+> Predicting symptom progression using wearable physical activity and sleep data during concussion recovery.  
+> Scenario testing to generate exercise recommendations for patients with concussion.  
 
 **Generative models**
-> Projects tbd...
+> Real-time personalized sleep and exercise recommendations after concussion using wearable data
 
 <br><br>
 ## Projects I've worked on...
-**Near-infrared spectroscopy for identifying cerebrovascualr impairment in adolescents with concussion**
-> Quantifying cerebrovascular dysfunction using advanced medical technology.
+**Near-infrared spectroscopy for identifying cerebrovascular impairment in adolescents with concussion**
+> Quantifying cerebrovascular dysfunction using Near-Infrared Spectroscopy (NIRS).  
 
-**Isotemportal substituion modeling of wearable activity tracking**
-> Time-based (i.e., temporal) modeling of activity behaviors and their effect on post-concussion symptom resolution.
+**Isotemportal substitution modeling of wearable activity tracking**
+> Time-based (i.e., temporal) modeling of activity behaviors and their effect on post-concussion symptom resolution.  
 
 **Structural equation modeling of longitudinal data**
-> Sleep and exercise: Longitudinal assocations throughout recovery from concussion.
+> Sleep and exercise: Longitudinal associations throughout recovery from concussion. 
 
 **Longitudinal analysis of Magnetic Resonance Spectroscopy**
-> Neurometabolite concentrations predict physical activity volumes after concussion.
+> Neurometabolite concentrations predict physical activity volumes after concussion.  
 
 **Random forests**
-> Predicting non-resolving mental health disturbance after concussion using diverse clinical data.
+> Predicting non-resolving mental health disturbance after concussion using diverse clinical data.  
 
 **Propensity score-based randomization**
-> Using propensity-score metrics to randomize serum/plasma samples during analysis.
->> Purpose: Balance relevant covariates between batches without cross-plate controls
+> Using propensity-score metrics to randomize serum/plasma samples during analysis.  
 
 <br><br>
 ## My research funding...
@@ -82,7 +83,7 @@ Co-Sponsor: Brianne Bettcher \
 Mentorship Team: Patrick Carry & Jonathan Smirl
 
 <br><br>
-## Some recent peer reviewed work... 
+## Some recent peer-reviewed work... 
 [Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion](https://pubmed.ncbi.nlm.nih.gov/38109187/)\
 [Concussion and depressive symptoms in high school students: impact of physical activity and substance use](https://pubmed.ncbi.nlm.nih.gov/39837588/)\
 [Predicting Time to Evaluation After Pediatric Concussion: Factors Affecting Specialty Concussion Care](https://pubmed.ncbi.nlm.nih.gov/37655238/)
