@@ -37,7 +37,7 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 > Predicting cancer development from omics data.  
 > Early identification of non-resolving mental health symptoms in adolescents with concussion.  
 > Differentiation of idiopathic from neuromuscular scoliosis in pediatric populations.  
-> Patterns of post-concussion sleep and physical activity that influence recovery time.
+> Patterns of post-concussion sleep and physical activity that influence recovery time.  
 > Fun neural net example  [[link to project repo](https://github.com/wingersonMJ/Neural_net_example)]   
 
 **Convolutional networks**
