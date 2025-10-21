@@ -1,6 +1,5 @@
 # WingersonMJ
 ## Hi, I'm Mathew! 
-## About me...
 **Name:** Mathew Wingerson (he/him)\
 **Location:** Denver, CO (relocating to... tbd)\
 **Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics\
