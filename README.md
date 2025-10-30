@@ -1,31 +1,37 @@
 # WingersonMJ
 ## Hi, I'm Mathew! 
-**Name:** Mathew Wingerson (he/him)\
-**Location:** Denver, CO (relocating to... tbd)\
-**Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics\
+
+**Name:** Mathew Wingerson (he/him)  
+**Location:** Denver, CO (relocating to... tbd)  
+**Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics  
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
-[My Publications](https://pubmed.ncbi.nlm.nih.gov/?term=Wingerson+MJ&cauthor_id=36315824) | [Posters & Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
-<br><br>
+**Email:** Mathew.Wingerson@CUAnschutz.edu  
+[GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [LinkedIn](www.linkedin.com/in/wingersonmj) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
+<br>
 
-## **Education:**
-**Doctor of Philosophy (expected 2026)** | University of Colorado School of Medicine
-> Program:
->> Rehabilitation Sciences (study of disease progression/treatment)
+--- 
 
-> Research focus:
->> Statistics, Data Sciences, and Health Analytics to improve diagnosis, prognosis, and treatment of medically complex injuries.
->> Forecasting symptom progression using post-concussion clinical data.
+## Education
 
+### Doctor of Philosophy: Rehabilitation Sciences
+Expected: 2026  
+University of Colorado Anschutz School of Medicine, Aurora, CO.  
 
-**Concentration/Certification in Data Science and Health Analytics (expected 2025)** | University of Colorado School of Medicine
-> Program:
->> Public Health
+### Certificate/Focus Area: Data Science and Health Analytics
+Completed: October 2025.  
+Conferred: May 2026.  
+University of Colorado School of Public Health, Aurora, CO.  
 
-> Research focus:
->> Modeling of complex real-world data to improve concussion recovery.  
->> Machine learning, deep learning, and various data science topics.
+### Master of Science: Applied Sport Psychology
+Conferred: August 2021.  
+Adams State University, Department of Kinesiology, Alamosa, CO.  
 
-<br><br>
+### Bachelor of Arts: Psychology
+Conferred: December 2018.  
+Simpson College, Department of Psychology, Indianola, IA.  
+
+---
+
 ## Motivation...
 I have a passion for identifying patterns in data and for using those patterns to make predictions and guide clinical management for medically complex injuries! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
 <br>
