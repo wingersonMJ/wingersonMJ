@@ -58,6 +58,7 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 - Conda/Anaconda (environment and dependency management)
 - Docker (just getting started)
 - Windows CMD (familir with Bash)
+- Snakemake (workflow development)
 
 <br>
 
