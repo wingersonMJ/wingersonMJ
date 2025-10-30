@@ -6,6 +6,7 @@
 **Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics  
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
 **Email:** Mathew.Wingerson@CUAnschutz.edu  
+<br>
 [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [LinkedIn](www.linkedin.com/in/wingersonmj) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
 <br>
 
@@ -55,7 +56,7 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 - Scikit Learn
 - Pytorch and TensorFlow
 - Conda/Anaconda (environment and dependency management)
-- Docker (just getting started here)
+- Docker (just getting started)
 - Windows CMD (familir with Bash)
 
 <br>
