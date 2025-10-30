@@ -44,11 +44,22 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 I am ahead of schedule in my progress toward a dissertation defense in 2026. I am currently searching for opportunities to use my passion and skills in AI and Machine Learning to contribute to a team of researchers looking to make an impact on real-world problems.  
 
 <br>
-## Tools I have learned...
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,r,vscode,py,sklearn,pytorch,tensorflow,anaconda,bash)](https://skillicons.dev)
+## Tools I have learned...  
+- Git (version control)
+- Markdown
+- **R, R-Studio, and R-Shiny** (4+ years)
+- **Python** (3+ years) 
+- VSCode IDE 
+- Scikit Learn
+- Pytorch and TensorFlow
+- Conda/Anaconda (environment and dependency management)
+- Docker (just getting started here)
+- Windows CMD (familir with Bash)
 
-<br><br>
-<br><br>
+<br>
+<br>
+<br>
+<br>
 # Fun things about me! 
 
 ## :musical_note: Top Artists I've listened to over the last 12 months... 
