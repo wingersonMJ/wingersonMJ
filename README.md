@@ -7,7 +7,7 @@
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
 **Email:** Mathew.Wingerson@CUAnschutz.edu  
 <br>
-[GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [LinkedIn](www.linkedin.com/in/wingersonmj) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
+[GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [linkedin](https://www.linkedin.com/in/mat-wingerson/) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
 <br>
 
 **Link to my full CV:** [CV Link](https://github.com/wingersonMJ/Curriculum-Vitae/tree/main)  
