@@ -9,6 +9,8 @@
 [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [LinkedIn](www.linkedin.com/in/wingersonmj) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
 <br>
 
+**Link to my full CV:** [CV Link](https://github.com/wingersonMJ/Curriculum-Vitae/tree/main)  
+
 --- 
 
 ## Education
@@ -33,76 +35,15 @@ Simpson College, Department of Psychology, Indianola, IA.
 ---
 
 ## Motivation...
-I have a passion for identifying patterns in data and for using those patterns to make predictions and guide clinical management for medically complex injuries! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems.  
+I have a passion for identifying patterns in data and for using those patterns to make predictions and guide clinical management for medically complex injuries! I have a strong foundation in applied mathematics, including modern machine learning and deep learning architectures, and I enjoy using that knowledge to solve real-world problems. I am well-experienced in processing various data types (tabular, image, text), caplitalizing on a variety of feature sources (bench/clinical research, electronic medical records, imaging), and applying a diverse range of AI and ML techniques (Neural Networks, Clustering Algorithms, Tree-Based Classifiers, etc.) to predict health outcomes in children and adults.  
 <br>
-I thrive when allowed to leverage conventional statistics, machine learning, and deep learning to make sense out of imperfect data. I am looking for a career that allows me to use these tools to tackle increasingly complex problems in fields where simple solutions fall short! 
+I thrive when allowed to leverage conventional statistics, machine learning, and deep learning to make sense out of imperfect data. I am looking for a career that allows me to use these tools to tackle increasingly complex problems in fields where simple solutions fall short!  
+<br>
 
-<br><br>
-## What I am learning now...
-**Multi-layer perceptrons**
-> Predicting cancer development from omics data.  
-> Early identification of non-resolving mental health symptoms in adolescents with concussion.  
-> Differentiation of idiopathic from neuromuscular scoliosis in pediatric populations.  
-> Patterns of post-concussion sleep and physical activity that influence recovery time.  
-> Fun neural net example  [[link to project repo](https://github.com/wingersonMJ/Neural_net_example)]   
+## What I am looking for...
+I am ahead of schedule in my progress toward a dissertation defense in 2026. I am currently searching for opportunities to use my passion and skills in AI and Machine Learning to contribute to a team of researchers looking to make an impact on real-world problems.  
 
-**Convolutional networks**
-> Identifying lession types from medical imaging.  
-> Predicting age from facial features.  
-
-**Recurrent networks**
-> Predicting symptom progression using wearable physical activity and sleep data during concussion recovery.  
-> Scenario testing to generate exercise recommendations for patients with concussion.  
-
-**Generative models**
-> Real-time personalized sleep and exercise recommendations after concussion using wearable data.  
-
-<br><br>
-## Projects I've worked on...
-**Near-infrared spectroscopy for identifying cerebrovascular impairment in adolescents with concussion**
-> Quantifying cerebrovascular dysfunction using Near-Infrared Spectroscopy (NIRS).  
-
-**Isotemportal substitution modeling of wearable activity tracking**
-> Time-based (i.e., temporal) modeling of activity behaviors and their effect on post-concussion symptom resolution.  
-
-**Structural equation modeling of longitudinal data**
-> Sleep and exercise: Longitudinal associations throughout recovery from concussion. 
-
-**Longitudinal analysis of Magnetic Resonance Spectroscopy**
-> Neurometabolite concentrations predict physical activity volumes after concussion. [[link to project repo](https://github.com/wingersonMJ/MRSpect_analysis)]  
-
-**Random forests**
-> Predicting non-resolving mental health disturbance after concussion using diverse clinical data.  
-
-**Propensity score-based randomization**
-> Using propensity-score metrics to randomize serum/plasma samples during analysis.  [[link to project repo](https://github.com/wingersonMJ/batch_randomization)]  
-
-**Other projects with tabular data**
-> Predicting exercise test performance in adolescents with concussion [[link to project repo](https://github.com/wingersonMJ/Exercise_test_HRm)]  
-> Factors influencing return to sport progressions in the months after sport-related brain injury [[link to project repo](https://github.com/wingersonMJ/Whalen_RTS)]  
-> Time-to-event analysis [[link to project repo](https://github.com/wingersonMJ/Salfi_fourGroups)]  
-
-
-<br><br>
-## My research funding...
-**Ruth L. Kirschstein National Research Service Award (NRSA) for Individual Predoctoral Fellows**  
-National Institutes of Health (NIH)  
-Eunice Kennedy Shriver National Institute of Child Health & Human Development  
-Award Number: F31HD116524-01  
-Total Award Amount: $77,600  
-Institution: Department of Orthopedics, University of Colorado Anschutz School of Medicine  
-Project Title: A novel approach to exercise as treatment for injury-induced impairments in cerebrovascular function among adolescents with concussion  
-Sponsor: David Howell  
-Co-Sponsor: Brianne Bettcher  
-Mentorship Team: Patrick Carry & Jonathan Smirl  
-
-<br><br>
-## Recent peer-reviewed work... 
-Factors Associated with Symptom Resolution after Aerobic Exercise Intervention in Adolescent and Young Adults with Concussion [paper link](https://pubmed.ncbi.nlm.nih.gov/38109187/)\
-Concussion and depressive symptoms in high school students: impact of physical activity and substance use [paper link](https://pubmed.ncbi.nlm.nih.gov/39837588/)\
-Predicting Time to Evaluation After Pediatric Concussion: Factors Affecting Specialty Concussion Care [paper link](https://pubmed.ncbi.nlm.nih.gov/37655238/)
-
-<br><br>
+<br>
 ## Tools I've learned...
 [![My Skills](https://skillicons.dev/icons?i=github,md,r,vscode,py,sklearn,pytorch,tensorflow&perline=4)](https://skillicons.dev)
 
