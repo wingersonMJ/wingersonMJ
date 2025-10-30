@@ -44,8 +44,8 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 I am ahead of schedule in my progress toward a dissertation defense in 2026. I am currently searching for opportunities to use my passion and skills in AI and Machine Learning to contribute to a team of researchers looking to make an impact on real-world problems.  
 
 <br>
-## Tools I've learned...
-[![My Skills](https://skillicons.dev/icons?i=github,md,r,vscode,py,sklearn,pytorch,tensorflow&perline=4)](https://skillicons.dev)
+## Tools I have learned...
+[![My Skills](https://skillicons.dev/icons?i=git,github,md,r,vscode,py,sklearn,pytorch,tensorflow,anaconda,bash)](https://skillicons.dev)
 
 <br><br>
 <br><br>
