@@ -43,7 +43,9 @@ I thrive when allowed to leverage conventional statistics, machine learning, and
 ## What I am looking for...
 I am ahead of schedule in my progress toward a dissertation defense in 2026. I am currently searching for opportunities to use my passion and skills in AI and Machine Learning to contribute to a team of researchers looking to make an impact on real-world problems.  
 
+**Link to my full CV:** [CV Link](https://github.com/wingersonMJ/Curriculum-Vitae/tree/main)  
 <br>
+
 ## Tools I have learned...  
 - Git (version control)
 - Markdown
@@ -57,9 +59,7 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 - Windows CMD (familir with Bash)
 
 <br>
-<br>
-<br>
-<br>
+
 # Fun things about me! 
 
 ## :musical_note: Top Artists I've listened to over the last 12 months... 
