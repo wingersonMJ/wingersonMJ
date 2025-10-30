@@ -5,7 +5,7 @@
 **Location:** Denver, CO (relocating to... tbd)  
 **Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics  
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
-**Email:** Mathew.Wingerson@CUAnschutz.edu  
+**Email:** Mat.Wingerson@gmail.com | Mathew.Wingerson@CUAnschutz.edu  
 <br>
 [GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [linkedin](https://www.linkedin.com/in/mat-wingerson/) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
 <br>
