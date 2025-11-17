@@ -66,8 +66,7 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 - Docker (just getting started)
 - Windows CMD (familir with Bash)
 - Snakemake (workflow development)
-
-<br>
+- Pre-Commit (linting/formatting with Black, Ruff, isort)
 
 ## Work Examples: 
 
