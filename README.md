@@ -13,6 +13,13 @@
 **Link to my full CV:** [CV Link](https://github.com/wingersonMJ/Curriculum-Vitae/tree/main)  
 
 --- 
+## Professional Summary
+
+I am passionate about identifying patterns in data and using data-driven decisions to effect change in healthcare and health sciences research. I have a strong educational background and significant real-world experience in applied statistics and data sciences, including modern machine learning and deep learning architectures. I enjoy using my knowledge to contribute collaboratively on research that impacts clinical practice and provision of medicine.  
+
+My 6 years of experience in clinical research and statistics, and 3+ years of processing and integrating multimodal data sources (text, clinical, electronic, wearable, biologic, imaging), and applying AI and ML techniques (neural networks, clustering, tree-based classifiers, etc.) have prepared me for a position as an AI/ML Health Sciences Researcher. 
+
+---
 
 ## Education
 
@@ -61,6 +68,27 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 - Snakemake (workflow development)
 
 <br>
+
+## Work Examples: 
+
+**NeurIPS 2025 Submission:** Leveraging ordinal embeddings for predicting and generalizing health outcomes: A study of adolescent substance use.  
+Summary: Deep representation learning for large-scale adolescent health data; introduced ordinal embeddings that outperform and better generalize to hold-out data than one-hot encoded baselines on substance-use risk prediction.  
+Project Repo: https://github.com/wingersonMJ/2025_NeurIPS_Submission/
+<br>
+
+**Decision Tree:** A clinically intuitive approach to predicting persisting symptoms after concussion in adolescents.  
+Summary: Interpretable decision-tree classifier for clinical use; tuning of hyperparameters, including depth, minimum samples per split, re-weighting for class imbalances, and cost-complexity pruning with selection of alpha value; stratified K-fold validation for model performance; bootstrapping with replacement for confidence intervals; variations of decision-tree visual representations for immediate use in clinical settings.  
+Project Repo: https://github.com/wingersonMJ/Decision_tree_prediction 
+<br>
+
+**PropensityBatchRandomization:** A tool for randomizing participant biological samples across plates/batches while numerically evaluating the balance of key participant covariates post-randomization.  
+Summary: Python package, published on PyPI, open source with tutorial; providing a structured tool for randomizing participant biological samples across plates/batches and numerically evaluating and balancing key participant covariates post-randomization; primary objective to mitigate batch effects encountered in analysis of biologics.  
+Project Repo: https://github.com/wingersonMJ/PropensityBatchRandomization 
+<br> 
+
+**Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
+Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery.  
+Project Repo: https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation 
 
 # Fun things about me! 
 
