@@ -70,6 +70,10 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 
 ## Work Examples: 
 
+**Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
+Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery.  
+Project Repo: https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation 
+
 **NeurIPS 2025 Submission:** Leveraging ordinal embeddings for predicting and generalizing health outcomes: A study of adolescent substance use.  
 Summary: Deep representation learning for large-scale adolescent health data; introduced ordinal embeddings that outperform and better generalize to hold-out data than one-hot encoded baselines on substance-use risk prediction.  
 Project Repo: https://github.com/wingersonMJ/2025_NeurIPS_Submission/
@@ -85,9 +89,10 @@ Summary: Python package, published on PyPI, open source with tutorial; providing
 Project Repo: https://github.com/wingersonMJ/PropensityBatchRandomization 
 <br> 
 
-**Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
-Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery.  
-Project Repo: https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation 
+**Ensemble Learning of Proteomics Prediction Models:** This project is the start of model building for a study that uses protemoics to predict curve severity in patients with scoliosis. The objective is to take information gained about cellular functions, disease 
+states, and biological pathways obtained from analyses of 7,500 proteins to estimate a patient's Max Cobb angle - the largest point of spinal curvature measured in degrees on an X-ray. I trained multiple neural networks to predict the target variable, then used 
+ensemble learning to train a stacked linear regression on the network outputs.
+Project Repo: https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble  
 
 # Fun things about me! 
 
