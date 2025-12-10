@@ -89,9 +89,8 @@ Summary: Python package, published on PyPI, open source with tutorial; providing
 Project Repo: https://github.com/wingersonMJ/PropensityBatchRandomization 
 <br> 
 
-**Ensemble Learning of Proteomics Prediction Models:** This project is the start of model building for a study that uses protemoics to predict curve severity in patients with scoliosis.  
-Summary: The objective is to take information gained about cellular functions, disease states, and biological pathways obtained from analyses of 7,500 proteins to estimate a patient's Max Cobb angle - the largest point of spinal curvature measured in degrees on an X-ray. I trained multiple neural networks to predict the target variable, then used 
-ensemble learning to train a stacked linear regression on the network outputs.
+**Ensemble Learning of Proteomics Prediction Models:** This project is the start of model building for a study that uses proteomics to predict curve severity in patients with scoliosis.  
+Summary: The objective is to take information gained about cellular functions, disease states, and biological pathways obtained from analyses of 7,500 proteins to estimate a patient's Max Cobb angle - the largest point of spinal curvature measured in degrees on an X-ray. I trained multiple neural networks to predict the target variable, then used ensemble learning by training a stacked linear regression on the network outputs.
 Project Repo: https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble  
 
 # Fun things about me! 
