@@ -3,7 +3,7 @@
 
 **Name:** Mathew Wingerson (he/him)  
 **Location:** Denver, CO (relocating to... tbd)  
-**Job:** PhD Student in Rehabilitation Science with focus in Data Sciences and Health Analytics  
+**Job:** Data Science, Health Analytics, and Machine Learning Researcher (PhD Student)  
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
 **Email:** Mat.Wingerson@gmail.com | Mathew.Wingerson@CUAnschutz.edu  
 <br>
@@ -17,14 +17,14 @@
 
 I am passionate about identifying patterns in data and using data-driven decisions to effect change in healthcare and health sciences research. I have a strong educational background and significant real-world experience in applied statistics and data sciences, including modern machine learning and deep learning architectures. I enjoy using my knowledge to contribute collaboratively on research that impacts clinical practice and provision of medicine.  
 
-My 6 years of experience in clinical research and statistics, and 3+ years of processing and integrating multimodal data sources (text, clinical, electronic, wearable, biologic, imaging), and applying AI and ML techniques (neural networks, clustering, tree-based classifiers, etc.) have prepared me for a position as an AI/ML Health Sciences Researcher. 
+My 6 years of experience in clinical research and statistics, and 3+ years of processing and integrating multimodal data sources (text, clinical, electronic-health-record, wearable, biologic, continuous- and discrete-time), and applying AI and ML techniques (neural networks, clustering, tree-based classifiers, etc.) have prepared me for a position as a Health Sciences Researcher. 
 
 ---
 
 ## Education
 
 ### Doctor of Philosophy: Rehabilitation Sciences
-Expected: 2026  
+Expected: May 2026  
 University of Colorado Anschutz School of Medicine, Aurora, CO.  
 
 ### Certificate/Focus Area: Data Science and Health Analytics
