@@ -64,15 +64,22 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 - Pytorch and TensorFlow
 - Conda/Anaconda (environment and dependency management)
 - Docker (just getting started)
-- Windows CMD (familir with Bash)
 - Snakemake (workflow development)
 - Pre-Commit (linting/formatting with Black, Ruff, isort)
 
 ## Work Examples: 
 
+**Dissertation:** Longitudinal and joint-modeling analyses of repeated measures data for patients with concussion.  
+Summary: Data processing and analysis workflows for longitudinal exploration of wearable device activity data in a 
+clinical research setting, implementing functions to handle repeated measures, define patient-specific monitoring periods, 
+and analyze using longitudinal and joint-modeling methods.  
+Project Repo: https://github.com/wingersonMJ/Dissertation_wingersonMJ
+<br>
+
 **Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
 Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery.  
 Project Repo: https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation 
+<br>
 
 **NeurIPS 2025 Submission:** Leveraging ordinal embeddings for predicting and generalizing health outcomes: A study of adolescent substance use.  
 Summary: Deep representation learning for large-scale adolescent health data; introduced ordinal embeddings that outperform and better generalize to hold-out data than one-hot encoded baselines on substance-use risk prediction.  
